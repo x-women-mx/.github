@@ -1,6 +1,6 @@
 # 💥X-Women💥
 ## _In Tech Empowerment_ 👾
-Somos una comunidad inclusiva creada por un grupo de mujeres increíbles que se conocieron por medio de un programa de certificación llamado _Inovacción Virtual powered by Microsoft_ que decidimos poner a prueba nuestros conocimientos y habilidades para participar en competencias y hackathons.
+Somos una comunidad inclusiva creada por un grupo de mujeres increíbles que se conocieron por medio de un programa de certificación llamado _Innovacción Virtual powered by Microsoft_ que decidimos poner a prueba nuestros conocimientos y habilidades para participar en competencias y hackathons.
 Nuestro objetivo es incentivar a que toda persona que se identifique como mujer y/o pertenezca a las comunidades LGBTQ+ desarrollen sus habilidades dentro de estos eventos y así tener mayor presencia en los mismos, buscamos crear impacto y lograr que la tecnología sea cada vez más accesible para aquellos grupos que aún no tienen la posibilidad de pertenecer e impulsar a la comunidad hispanohablante a competir.
 
 ## ¡Bienvenidx a X-Women! 🙌
