@@ -12,7 +12,7 @@ Síguenos en nuestras redes sociales **@xwomenmx**
 - [Comunidad en Twitter: X-Women](https://twitter.com/i/communities/1499865889864364032)
 
 ## ¡Únete! ⏬
-Te pedimos de manera atenta conozcas, leas y sigas nuestro [Código de Conducta](https://github.com/x-women-mx/.github/blob/main/CODE_OF_CONDUCT.md), ya que detallamos los comportamientos aceptados dentro de la comunidad. Nos reservamos el derecho de admisión.<br>
+Te pedimos de manera atenta conozcas, leas y sigas nuestro [Código de Conducta](https://gist.github.com/aleepsy/1d83de6a684927a2a2c3b4bf301b27b8#file-code-of-conduct-md), ya que detallamos los comportamientos aceptados dentro de la comunidad. Nos reservamos el derecho de admisión.<br>
 
 🔰 **¡Te invitamos a nuestro Discord!** 🔰 <br>
 🔹 [Discord X-Women](https://discord.gg/SzDwtAfnMd) 🔹
